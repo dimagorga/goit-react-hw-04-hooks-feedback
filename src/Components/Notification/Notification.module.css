@@ -1,0 +1,8 @@
+.title {
+  width: 300px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: rgba(255, 91, 146, 0.705);
+  border: 1px solid rgb(66, 48, 64);
+  border-radius: 2%;
+}
